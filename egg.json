@@ -3,7 +3,7 @@
   "name": "${NAME}",
   "entry": "mod.ts",
   "description": "${DESCRIPTION}",
-  "homepage": "https://github.com/{AUTHOR}/${NAME}#readme",
+  "homepage": "https://github.com/${AUTHOR}/${NAME}#readme",
   "version": "0.0.0",
   "files": ["README.md", "LICENSE", "*.ts"],
   "ignore": [".git"],

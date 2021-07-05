@@ -39,7 +39,7 @@
   ],
   "keywords": [],
   "author": {
-    "name": "${NAME}",
+    "name": "${AUTHOR}",
     "email": "",
     "url": ""
   },
